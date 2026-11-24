@@ -1,0 +1,9 @@
+{
+  "name": "appliance-store-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "appliance-store-erp",
+  "scripts": {
+    "start": "echo \"No root entrypoint; inspect repository contents\""
+  }
+}
